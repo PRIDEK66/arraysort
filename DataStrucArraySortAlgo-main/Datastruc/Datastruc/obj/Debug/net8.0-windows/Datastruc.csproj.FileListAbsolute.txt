@@ -1,0 +1,32 @@
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\bin\Debug\net8.0-windows\Datastruc.exe
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\bin\Debug\net8.0-windows\Datastruc.deps.json
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\bin\Debug\net8.0-windows\Datastruc.runtimeconfig.json
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\bin\Debug\net8.0-windows\Datastruc.dll
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\bin\Debug\net8.0-windows\Datastruc.pdb
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.Form1.resources
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.csproj.GenerateResource.cache
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.AssemblyInfoInputs.cache
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.AssemblyInfo.cs
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.csproj.CoreCompileInputs.cache
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.dll
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\obj\Debug\net8.0-windows\refint\Datastruc.dll
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.pdb
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.genruntimeconfig.cache
+D:\Users\Siah\Desktop\codes\c#\Datastruc\Datastruc\obj\Debug\net8.0-windows\ref\Datastruc.dll
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\bin\Debug\net8.0-windows\Datastruc.exe
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\bin\Debug\net8.0-windows\Datastruc.deps.json
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\bin\Debug\net8.0-windows\Datastruc.runtimeconfig.json
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\bin\Debug\net8.0-windows\Datastruc.dll
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\bin\Debug\net8.0-windows\Datastruc.pdb
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.csproj.GenerateResource.cache
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.AssemblyInfoInputs.cache
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.AssemblyInfo.cs
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.csproj.CoreCompileInputs.cache
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.dll
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\obj\Debug\net8.0-windows\refint\Datastruc.dll
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.pdb
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.genruntimeconfig.cache
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\obj\Debug\net8.0-windows\ref\Datastruc.dll
+C:\Users\TO GOD BE THE GLORY\Desktop\DataStrucArraySortAlgo-main\Datastruc\Datastruc\obj\Debug\net8.0-windows\Datastruc.ArraySort.resources
