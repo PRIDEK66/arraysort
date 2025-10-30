@@ -1,0 +1,16 @@
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\obj\Debug\net8.0-windows\cases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\obj\Debug\net8.0-windows\cases.AssemblyInfoInputs.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\obj\Debug\net8.0-windows\cases.AssemblyInfo.cs
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\obj\Debug\net8.0-windows\cases.csproj.CoreCompileInputs.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\bin\Debug\net8.0-windows\cases.exe
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\bin\Debug\net8.0-windows\cases.deps.json
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\bin\Debug\net8.0-windows\cases.runtimeconfig.json
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\bin\Debug\net8.0-windows\cases.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\bin\Debug\net8.0-windows\cases.pdb
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\obj\Debug\net8.0-windows\cases.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\obj\Debug\net8.0-windows\refint\cases.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\obj\Debug\net8.0-windows\cases.pdb
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\obj\Debug\net8.0-windows\cases.genruntimeconfig.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\obj\Debug\net8.0-windows\ref\cases.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\obj\Debug\net8.0-windows\Form1.Form1.resources
+C:\Users\TO GOD BE THE GLORY\source\repos\cases\cases\obj\Debug\net8.0-windows\cases.csproj.GenerateResource.cache
